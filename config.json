@@ -1,0 +1,34 @@
+{
+    "actions": [
+        {
+            "name": "iniciar",
+            "objects": [
+                "exploração"
+            ]
+        },
+        {
+            "name": "coletar",
+            "objects": [
+                "amostra"
+            ]
+        },
+        {
+            "name": "mapear",
+            "objects": [
+                "fundo oceânico"
+            ]
+        },
+        {
+            "name": "lançar",
+            "objects": [
+                "drone submarino"
+            ]
+        },
+        {
+            "name": "retornar",
+            "objects": [
+                "superfície"
+            ]
+        }
+    ]
+}
